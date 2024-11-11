@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Lab2Task9 {
+public class Lab2Task09 {
     public static void main(String[] args) {
         System.out.println("Enter the monthly saving amount:");
         Scanner sc = new Scanner(System.in);
