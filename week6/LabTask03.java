@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class LabTask3 {
+public class LabTask03 {
     public static void main(String[] args) throws Exception {
         
         int number=(int)(Math.random()*101);
