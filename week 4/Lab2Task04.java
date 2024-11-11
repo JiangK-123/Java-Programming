@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Lab2Task4 {
+public class Lab2Task04 {
         public static void main(String[] args) {                    
                     System.out.println("Enter the radius and length of a cylinder:");
                     Scanner input = new Scanner(System.in);
