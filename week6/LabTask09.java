@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class LabTask9 {
+public class LabTask09 {
     public static void main(String[] args) throws Exception {
         for(int i=0;i<4;i++){
             for(int j=0;j<=i;j++)
