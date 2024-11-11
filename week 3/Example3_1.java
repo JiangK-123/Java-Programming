@@ -1,3 +1,5 @@
+import java.util.Scanner;
+
 public class Example3_1 {
     public static void main(String[] args) {
         int number1 = (int)(System.currentTimeMillis() % 10);
