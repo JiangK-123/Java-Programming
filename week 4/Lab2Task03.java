@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Lab2Task3 {
+public class Lab2Task03 {
         public static void main(String[] args) {
            			
 			int nowday = 2;
