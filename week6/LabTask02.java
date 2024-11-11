@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class LabTask2 {
+public class LabTask02 {
     public static void main(String[] args) throws Exception {
        
         int number1=(int)(Math.random()*10);
