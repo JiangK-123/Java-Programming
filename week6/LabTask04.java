@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class LabTask4 {
+public class LabTask04 {
     public static void main(String[] args) throws Exception {
  
 final int NUMBER_OF_QUESTIONS = 5;// Number of questions
