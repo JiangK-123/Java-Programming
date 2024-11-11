@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class LabTask8 {
+public class LabTask08 {
     public static void main(String[] args) throws Exception {
         
         
