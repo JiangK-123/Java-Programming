@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class LabTask7 {
+public class LabTask07 {
     public static void main(String[] args) throws Exception {
             int sum=0;
             int j=10;
