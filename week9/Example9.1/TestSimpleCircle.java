@@ -3,7 +3,7 @@ package com.HJK.hello;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class HelloWorld {
+public class TestSimpleCircle{
     public static void main(String[] args) {
         Circle circle1 = new Circle();
         System.out.println("The area of the circle of radius "+circle1.radius+" is "+circle1.getArea());
