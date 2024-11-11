@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 
-public class LabTask5 {
+public class LabTask05 {
     public static void main(String[] args) throws Exception {
         
         Scanner input = new Scanner(System.in);
