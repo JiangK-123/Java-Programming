@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Lab2Task6 {
+public class Lab2Task06 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
